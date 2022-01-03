@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_robust_import_set_transformer">
+    <sys_robust_import_set_transformer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <batch_size>100</batch_size>
+        <description/>
+        <name>Wyse Management Suite Device Import (JSON)</name>
+        <properties/>
+        <robust_transform_engine display_value="Wyse Management Suite Device Import (JSON)">dbc2421f876230500f9aa60e0ebb3589</robust_transform_engine>
+        <source_table>x_ncmc_sg_dell_wsm_device_json</source_table>
+        <sys_class_name>sys_robust_import_set_transformer</sys_class_name>
+        <sys_created_by>CCMC-03</sys_created_by>
+        <sys_created_on>2021-09-17 18:00:37</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>d3c2421f876230500f9aa60e0ebb358c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Wyse Management Suite Device Import (JSON)</sys_name>
+        <sys_package display_value="Service Graph Connector for Dell Wyse Management Suite" source="x_ncmc_sg_dell_wsm">b8c10dd387a6fc100f9aa60e0ebb3516</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Service Graph Connector for Dell Wyse Management Suite">b8c10dd387a6fc100f9aa60e0ebb3516</sys_scope>
+        <sys_update_name>sys_robust_import_set_transformer_d3c2421f876230500f9aa60e0ebb358c</sys_update_name>
+        <sys_updated_by>CCMC-03</sys_updated_by>
+        <sys_updated_on>2021-09-17 18:00:37</sys_updated_on>
+        <verbose>false</verbose>
+    </sys_robust_import_set_transformer>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_file_system_type" label="File System Type" language="en" table="sn_int_studio_ih_etl_demo_data_existing">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_file_system_type</element>
+            <help/>
+            <hint/>
+            <label>File System Type</label>
+            <language>en</language>
+            <name>sn_int_studio_ih_etl_demo_data_existing</name>
+            <plural>File System Types</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>CCMC-03</sys_created_by>
+            <sys_created_on>2021-09-17 13:24:01</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>6b734d5b87a6fc100f9aa60e0ebb35d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>File System Type</sys_name>
+            <sys_package display_value="Service Graph Connector for Dell Wyse Management Suite" source="x_ncmc_sg_dell_wsm">b8c10dd387a6fc100f9aa60e0ebb3516</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Service Graph Connector for Dell Wyse Management Suite">b8c10dd387a6fc100f9aa60e0ebb3516</sys_scope>
+            <sys_update_name>sys_documentation_sn_int_studio_ih_etl_demo_data_existing_u_file_system_type_en</sys_update_name>
+            <sys_updated_by>CCMC-03</sys_updated_by>
+            <sys_updated_on>2021-09-17 13:24:01</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

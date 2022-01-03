@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Wyse Management Suite Devices" max_length="40" name="x_ncmc_sg_dell_wsm_wyse_devices" sizeclass="5831" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=cpuFamily" label="cpuFamily" max_length="40" name="u_cpufamily" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=devicePlatformType" label="devicePlatformType" max_length="237" name="u_deviceplatformtype" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=flashSize" label="flashSize" max_length="40" name="u_flashsize" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=groupName" label="groupName" max_length="40" name="u_groupname" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=hasAlerts" label="hasAlerts" max_length="40" name="u_hasalerts" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ip" label="ip" max_length="40" name="u_ip" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=isActive" label="isActive" max_length="40" name="u_isactive" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=isCaValidationOn" label="isCaValidationOn" max_length="40" name="u_iscavalidationon" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=isCheckinCompliant" label="isCheckinCompliant" max_length="40" name="u_ischeckincompliant" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=isCompliant" label="isCompliant" max_length="40" name="u_iscompliant" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=isConfigCompliant" label="isConfigCompliant" max_length="40" name="u_isconfigcompliant" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=isInstalledAppCompliant" label="isInstalledAppCompliant" max_length="40" name="u_isinstalledappcompliant" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=isOnline" label="isOnline" max_length="40" name="u_isonline" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=lastCheckinTime" label="lastCheckinTime" max_length="40" name="u_lastcheckintime" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=lastConfigTime" label="lastConfigTime" max_length="40" name="u_lastconfigtime" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=lastLoggedInUser" label="lastLoggedInUser" max_length="40" name="u_lastloggedinuser" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=macAddress" label="macAddress" max_length="40" name="u_macaddress" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=mandatoryAppCompliantStatus" label="mandatoryAppCompliantStatus" max_length="40" name="u_mandatoryappcompliantstatus" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=modelName" label="modelName" max_length="40" name="u_modelname" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=name" label="name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=osBuildVersion" label="osBuildVersion" max_length="40" name="u_osbuildversion" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=osCaption" label="osCaption" max_length="40" name="u_oscaption" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=registrationTime" label="registrationTime" max_length="40" name="u_registrationtime" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=serialNum" label="serialNum" max_length="40" name="u_serialnum" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=subnet" label="subnet" max_length="40" name="u_subnet" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=timezoneName" label="timezoneName" max_length="41" name="u_timezonename" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=uptime" label="uptime" max_length="40" name="u_uptime" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=$oid" label="$oid" max_length="40" name="u__oid" type="string"/>
+    </element>
+</database>

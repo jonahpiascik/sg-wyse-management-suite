@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="cmdb_inst_application">
+    <cmdb_inst_application action="INSERT_OR_UPDATE">
+        <discovery_source>ImportSet</discovery_source>
+        <name>Service Graph Connector for Wyse Management Suite</name>
+        <sys_class_name>cmdb_inst_application</sys_class_name>
+        <sys_created_by>CCMC-03</sys_created_by>
+        <sys_created_on>2021-09-17 14:59:55</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>9479d5d787aafc100f9aa60e0ebb3599</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Graph Connector for Wyse Management Suite</sys_name>
+        <sys_package display_value="Service Graph Connector for Dell Wyse Management Suite" source="x_ncmc_sg_dell_wsm">b8c10dd387a6fc100f9aa60e0ebb3516</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Service Graph Connector for Dell Wyse Management Suite">b8c10dd387a6fc100f9aa60e0ebb3516</sys_scope>
+        <sys_update_name>cmdb_inst_application_9479d5d787aafc100f9aa60e0ebb3599</sys_update_name>
+        <sys_updated_by>CCMC-03</sys_updated_by>
+        <sys_updated_on>2021-09-17 14:59:55</sys_updated_on>
+    </cmdb_inst_application>
+</record_update>

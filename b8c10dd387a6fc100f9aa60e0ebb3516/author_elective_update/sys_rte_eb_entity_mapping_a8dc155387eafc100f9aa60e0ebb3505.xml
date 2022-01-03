@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_entity_mapping">
+    <sys_rte_eb_entity_mapping action="DELETE">
+        <condition_script><![CDATA[/*  Example Script  (function() {          //step1: access the input variables         if (input && input.temp.u_type == 'Disk') {         //step2: return true/false             return true;         }         return false;  })(); */  (function(input) {     // Add your code here. })(input);]]></condition_script>
+        <encoded_query/>
+        <entity_mapping_group/>
+        <ignore>false</ignore>
+        <is_conditional>false</is_conditional>
+        <name>TempTocmdb_rel_ci_1631891680963_0</name>
+        <order>100</order>
+        <source_sys_rte_eb_entity display_value="temp">967959d787aafc100f9aa60e0ebb35b5</source_sys_rte_eb_entity>
+        <sys_class_name>sys_rte_eb_entity_mapping</sys_class_name>
+        <sys_created_by>CCMC-03</sys_created_by>
+        <sys_created_on>2021-09-17 15:14:41</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>a8dc155387eafc100f9aa60e0ebb3505</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TempTocmdb_rel_ci_1631891680963_0</sys_name>
+        <sys_package display_value="Service Graph Connector for Dell Wyse Management Suite" source="x_ncmc_sg_dell_wsm">b8c10dd387a6fc100f9aa60e0ebb3516</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_rte_eb_definition display_value="Wyse Management Suite Device Import">9479d5d787aafc100f9aa60e0ebb35d6</sys_rte_eb_definition>
+        <sys_scope display_value="Service Graph Connector for Dell Wyse Management Suite">b8c10dd387a6fc100f9aa60e0ebb3516</sys_scope>
+        <sys_update_name>sys_rte_eb_entity_mapping_a8dc155387eafc100f9aa60e0ebb3505</sys_update_name>
+        <sys_updated_by>CCMC-03</sys_updated_by>
+        <sys_updated_on>2021-09-17 15:14:41</sys_updated_on>
+        <target_sys_rte_eb_entity display_value="cmdb_rel_ci_1631891680963_0">e8dcd15387eafc100f9aa60e0ebb35ff</target_sys_rte_eb_entity>
+    </sys_rte_eb_entity_mapping>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Service Graph Connector for Dell Wyse Management Suite">b8c10dd387a6fc100f9aa60e0ebb3516</application>
+        <file_path/>
+        <instance_id>e9cd11404fc45a007b9b220f0310c7a2</instance_id>
+        <instance_name>ctchildrensdev</instance_name>
+        <name>sys_rte_eb_entity_mapping_a8dc155387eafc100f9aa60e0ebb3505</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_rte_eb_entity_mapping"&gt;&lt;sys_rte_eb_entity_mapping action="INSERT_OR_UPDATE"&gt;&lt;condition_script&gt;&lt;![CDATA[/*  Example Script  (function() {          //step1: access the input variables         if (input &amp;&amp; input.temp.u_type == 'Disk') {         //step2: return true/false             return true;         }         return false;  })(); */  (function(input) {     // Add your code here. })(input);]]&gt;&lt;/condition_script&gt;&lt;encoded_query/&gt;&lt;entity_mapping_group/&gt;&lt;ignore&gt;false&lt;/ignore&gt;&lt;is_conditional&gt;false&lt;/is_conditional&gt;&lt;name&gt;TempTocmdb_rel_ci_1631891680963_0&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;source_sys_rte_eb_entity display_value="temp"&gt;967959d787aafc100f9aa60e0ebb35b5&lt;/source_sys_rte_eb_entity&gt;&lt;sys_class_name&gt;sys_rte_eb_entity_mapping&lt;/sys_class_name&gt;&lt;sys_created_by&gt;CCMC-03&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-09-17 15:14:41&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;a8dc155387eafc100f9aa60e0ebb3505&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;TempTocmdb_rel_ci_1631891680963_0&lt;/sys_name&gt;&lt;sys_package display_value="Service Graph Connector for Dell Wyse Management Suite" source="x_ncmc_sg_dell_wsm"&gt;b8c10dd387a6fc100f9aa60e0ebb3516&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_rte_eb_definition display_value="Wyse Management Suite Device Import"&gt;9479d5d787aafc100f9aa60e0ebb35d6&lt;/sys_rte_eb_definition&gt;&lt;sys_scope display_value="Service Graph Connector for Dell Wyse Management Suite"&gt;b8c10dd387a6fc100f9aa60e0ebb3516&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_rte_eb_entity_mapping_a8dc155387eafc100f9aa60e0ebb3505&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;CCMC-03&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-09-17 15:14:41&lt;/sys_updated_on&gt;&lt;target_sys_rte_eb_entity display_value="cmdb_rel_ci_1631891680963_0"&gt;e8dcd15387eafc100f9aa60e0ebb35ff&lt;/target_sys_rte_eb_entity&gt;&lt;/sys_rte_eb_entity_mapping&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1804503878</payload_hash>
+        <record_name>TempTocmdb_rel_ci_1631891680963_0</record_name>
+        <reverted_from/>
+        <source>f0c10dd387a6fc100f9aa60e0ebb3519</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>CCMC-03</sys_created_by>
+        <sys_created_on>2021-09-17 15:14:41</sys_created_on>
+        <sys_id>28dc955387eafc100f9aa60e0ebb3543</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17bf452ef700000001</sys_recorded_at>
+        <sys_updated_by>CCMC-03</sys_updated_by>
+        <sys_updated_on>2021-09-17 15:14:41</sys_updated_on>
+        <type>Robust Transform Engine Entity Mapping</type>
+        <update_guid>acdc155333eafc1025e9c6e0c8695906</update_guid>
+        <update_guid_history>acdc155333eafc1025e9c6e0c8695906:-1804503878</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>CCMC-03</sys_created_by>
+        <sys_created_on>2021-09-17 15:23:32</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_rte_eb_entity_mapping">sys_rte_eb_entity_mapping</sys_db_object>
+        <sys_id>0ef0ccab759e45709d74d490d6d480a1</sys_id>
+        <sys_metadata>a8dc155387eafc100f9aa60e0ebb3505</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TempTocmdb_rel_ci_1631891680963_0</sys_name>
+        <sys_package display_value="Service Graph Connector for Dell Wyse Management Suite" source="x_ncmc_sg_dell_wsm">b8c10dd387a6fc100f9aa60e0ebb3516</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Service Graph Connector for Dell Wyse Management Suite">b8c10dd387a6fc100f9aa60e0ebb3516</sys_scope>
+        <sys_scope_delete display_value="">242289a45f044e8997d69e4b661151c9</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_entity_mapping_a8dc155387eafc100f9aa60e0ebb3505</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_entity_mapping_a8dc155387eafc100f9aa60e0ebb3505">28dc955387eafc100f9aa60e0ebb3543</sys_update_version>
+        <sys_updated_by>CCMC-03</sys_updated_by>
+        <sys_updated_on>2021-09-17 15:23:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
